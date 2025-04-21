@@ -1,0 +1,7 @@
+# Exclude build artifacts
+**/obj/
+**/bin/
+**/dist/
+
+.vscode/
+.github/copilot-instructions.md
