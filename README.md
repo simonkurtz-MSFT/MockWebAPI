@@ -3,6 +3,8 @@
 This repo contains basic mock web APIs for purposes such as simulating HTTP 429 conditions with a minimal footprint. It is intended to be a set of APIs that can be used in integrations to make actual API calls but without any storage (or consequence).
 The repo is .NET 9 based and uses minimal APIs (see `Program.cs`).
 
+The container image is hosted on [Docker Hub](https://hub.docker.com/r/simonkurtzmsft/mockwebapi).
+
 ## Developing
 
 ### Prerequisities
